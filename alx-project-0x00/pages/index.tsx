@@ -1,6 +1,5 @@
 import React from "react";
-import {} from "@/interfaces";
-
+import {indexProps} from "@/interfaces";
 
 const arrow: React.FC = () => {
   return (
@@ -11,4 +10,8 @@ const arrow: React.FC = () => {
   );
 };
 
-export default arrow;
+
+
+export default index;
+
+
