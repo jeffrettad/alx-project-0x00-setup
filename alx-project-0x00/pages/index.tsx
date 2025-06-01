@@ -12,7 +12,7 @@ const Home : React.FC = (arrow) => {
 };
 
 
-export interface PillProps {
+export interface ButtonProps {
   title: string
 }
 
