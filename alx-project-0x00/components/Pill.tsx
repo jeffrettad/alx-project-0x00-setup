@@ -1,3 +1,1 @@
-export interface PillProps {
-  title: string
-}
+import { PillProps } from "@/interfaces";
