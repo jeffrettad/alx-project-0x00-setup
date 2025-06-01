@@ -6,7 +6,7 @@ import Button from "@/components/Button"
 const Landing: React.FC = () => {
   return (
     <div>
-      <h1 className="text-xl font-extralight">Landing Page</h1><Card />
+      <h1 className="text-xl font-extralight rounded-sm, rounded-lg, rounded-full">Landing Page</h1><Card />
     </div>
   );
 };
