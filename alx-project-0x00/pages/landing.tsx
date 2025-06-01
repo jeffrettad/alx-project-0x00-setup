@@ -1,5 +1,5 @@
 import Card from "@/components/Card"
-import index from "@/components/index"
+import Button from "@/components/Button"
 
 
 
