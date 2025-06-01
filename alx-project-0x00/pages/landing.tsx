@@ -1,4 +1,6 @@
 import Card from "@/components/Card"
+import index from "@/components/index"
+
 
 
 const Landing: React.FC = () => {
