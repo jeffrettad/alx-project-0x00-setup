@@ -1,7 +1,5 @@
 import React from "react";
 import {indexProps} from "@/interfaces";
-export interface PillProps {
-  title: string
 }
 
 const arrow: React.FC = () => {
@@ -14,7 +12,9 @@ const arrow: React.FC = () => {
 };
 
 
+export interface PillProps {
+  title: string
+}
 
-export default index;
 
 
