@@ -11,7 +11,7 @@ const Home: React.FC = () => {
   )
 }
 
-export default Hom;
+export default Home;
 
 
 
