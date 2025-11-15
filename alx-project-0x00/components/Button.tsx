@@ -8,5 +8,5 @@ return (
 </button>
 );
 }
-export default Butto;
+export default Button;
 

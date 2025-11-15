@@ -7,4 +7,4 @@ const Pill: React.FC<PillProps> = ({ title }) => {
   )
 }
 
-export default Pi;
+export default Pill;

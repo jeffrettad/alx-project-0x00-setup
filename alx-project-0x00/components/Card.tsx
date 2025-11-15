@@ -48,4 +48,4 @@ const Card: React.FC = () => {
   )
 }
 
-export default Ca
+export default Card;
